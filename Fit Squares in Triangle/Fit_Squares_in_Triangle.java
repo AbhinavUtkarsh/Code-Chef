@@ -5,6 +5,12 @@ class Fit_Squares_in_Triangle {
     Scanner sc = new Scanner(System.in);
 
     Fit_Squares_in_Triangle() {
+        int test = sc.nextInt();
+        while (test != 0) {
+
+            int side_length = sc.nextInt();
+            test--;
+        }
 
     }
 

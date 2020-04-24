@@ -3,7 +3,7 @@
 
 ## Description
 
-This repo. contains my solutions to the problems stated on Code Chef website in Java.
+This repo. contains my solutions to the problems stated on Code Chef website in Java and Python.
 
 There could be several ways to approach the same given problem so feel free explore.
 
