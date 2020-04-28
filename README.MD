@@ -9,4 +9,6 @@ There could be several ways to approach the same given problem so feel free expl
 
 I would also be attaching the problem statements with the problem links with each problem so that you can look into it.
 
+Further more you can also check them out in my profile [here](https://www.codechef.com/users/priyansh728)
+
 ###### 🌟Happy coding!
