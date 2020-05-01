@@ -1,4 +1,5 @@
 # Arranging Cup-cakes 
+Problem Code: RESQ
 ## [Problem Statement](https://www.codechef.com/problems/RESQ) :
 Our Chef is catering for a big corporate office party and is busy preparing different mouth watering dishes. The host has insisted that he serves his delicious cupcakes for dessert.
 
